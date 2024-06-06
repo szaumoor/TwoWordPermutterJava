@@ -3,7 +3,7 @@
 This is a small utility I wrote semi-seriously to generate cool usernames by reading a file containing the words and finding all the possible combinations of two words.
 
 # How to use
-Download the **JAR** in the releases section. Open a terminal and type "**java -jar TwoWordPermutter**" followed by either
+Download the **JAR** in the releases section. Open a terminal on the location of the **JAR** and type "**java -jar TwoWordPermutter**" followed by either
 1. <**source_file**>
 2. <**source_file**> <**max_username_length**>
 
