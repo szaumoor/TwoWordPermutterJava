@@ -2,7 +2,6 @@
 // Words that start with "//" are comments and will be ignored.
 // Words that end with # are marked as first-word-only.
 // Words that end with * are marked as second-word-only.
-// Link to the permutations that are created with the currently enabled words: Default perms
 
 //Autistic#
 //Autumn
